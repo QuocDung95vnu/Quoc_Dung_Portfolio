@@ -2,3 +2,4 @@
 Examples of Data Analysis
 # Project 1:
 *Clean the dataset
+*Merge data table
